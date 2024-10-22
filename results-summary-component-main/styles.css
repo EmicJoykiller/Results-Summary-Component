@@ -136,3 +136,13 @@ img{
     margin-right: -3.5rem;
     
 }
+
+.btn{
+    align-self: center;
+    margin-top: 3rem;
+    width: 90%;
+    padding: 1.2em 3em;
+    border-radius: 100px;
+    color: var(--White);
+    background-color: var(--Dark-gray-blue);
+}
