@@ -195,4 +195,10 @@ img{
     border-radius: 100px;
     color: var(--White);
     background-color: var(--Dark-gray-blue);
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: linear-gradient(var(--Light-slate-blue-background),var(--Light-royal-blue-background))
+    
 }
