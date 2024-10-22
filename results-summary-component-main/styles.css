@@ -6,7 +6,7 @@ html, body{
     margin: 0;
     padding: 0;
     font-size: 1rem;
-    background-color: aliceblue;
+    background-color:var(--White) ;
     font-family: "Hanken Grotesk", sans-serif;
 }
 
@@ -125,6 +125,7 @@ p{
     background-color: var(--White);
     padding: 1rem 3rem;
     border-radius: 0 30px 30px 0;
+    box-shadow: 10px 10px 10px 0px var(--Light-lavender) ;
 }
 .cards-holder{
     display: flex;
