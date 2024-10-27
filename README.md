@@ -1,3 +1,15 @@
+This project is a React-based results summary component that visually presents user scores in categories like Reaction, Memory, Verbal, and Visual. Each category is represented by SVG icons dynamically imported and rendered within modular cards. The design uses CSS custom properties and gradients to provide a modern, visually appealing interface.
+
+Key technical features include:
+
+React Components: The project is structured with reusable components to streamline updates and improve maintainability.
+CSS Flexbox and Media Queries: Ensures responsiveness across devices, with layout adjustments for both desktop and mobile views.
+SVG Assets: Optimized for scalable, high-quality icons for each category, rendered dynamically for flexibility in score displays.
+CSS Variables and Gradient Effects: Uses CSS variables for colors and gradient backgrounds, creating a cohesive look while easing future design tweaks.
+Interactivity: Includes button styling and hover effects for enhanced user experience.
+This project demonstrates skills in responsive design, SVG handling, and React componentization. It's an example of combining functional and aesthetic elements in a web-based UI component.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
